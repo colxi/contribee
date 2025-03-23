@@ -7,6 +7,10 @@ A simple GitHub repository contributions analyser for the command line
 - Number of comments ldt during PR reviews
 - Total number of changes performed (additions + deletions)
 
+
+![Screenshot 2025-03-23 at 23 56 50](https://github.com/user-attachments/assets/11066999-e36b-4957-9809-8ded0f592ee8)
+
+
 # Installation
 
 Clone the repository locally and run:
