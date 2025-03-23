@@ -4,7 +4,7 @@ A simple GitHub repository contributions analyser for the command line
 
 - Number of PRs created
 - Number of PRs reviewed
-- Number of comments ldt during PR reviews
+- Number of comments left during PR reviews
 - Total number of changes performed (additions + deletions)
 
 
