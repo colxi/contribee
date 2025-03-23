@@ -1,0 +1,8 @@
+{
+  "accessToken": "<GITHUB-ACCESS-TOKEN>",
+  "repoOwner": "owner-name",
+  "repoName": "repo-name",
+  "duration": "2w",
+  "listPullRequests": false,
+  "trackedContributors": ["colxi"]
+}
